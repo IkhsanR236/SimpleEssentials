@@ -1,0 +1,20 @@
+name: SimpleEssentials
+version: ${project.version}
+main: com.github.IkhsanR236.SimpleEssentials
+api-version: 1.13
+author: [ IcanR ]
+description: PreMade Of Essentials
+
+commands: 
+  essentials:
+    description: Info of the plugin
+    aliases: [simpleessentials, ess]
+  heal: 
+    description: Heal you
+    aliases: [H, healing]
+  lockchat:
+    description: Lock the chat!
+    aliases: [chatlock, mutechat, chatmute]
+  clearchat:
+    description: Clear the chat!
+    aliases: [chatclear]
